@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rajkumar Rathlavath
 
-I'm a **Data Scientist and Data Engineer** with an M.S. in Engineering Science (Data Science) from the **State University of New York at Buffalo**. I’m passionate about transforming data into actionable insights and building scalable solutions to complex problems. With experience as a Data Analyst at Capgemini, I have developed a strong background in data analysis, visualization, and performance optimization.
+I'm a **Data Analyst** with an M.S. in Engineering Science (Data Science) from the **State University of New York at Buffalo**. I’m passionate about transforming data into actionable insights and building scalable solutions to complex problems. With experience as a Data Analyst at Capgemini, I have developed a strong background in data analysis, visualization, and performance optimization.
 
 ## 🚀 About Me
 - 👨‍💻 Aspiring Data Analyst & Data Engineer with a strong background in data science and engineering.
