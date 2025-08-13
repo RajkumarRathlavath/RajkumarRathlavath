@@ -1,3 +1,42 @@
+## 👋 Hi, I'm Rajkumar Rathlavath
+**Software Engineer (SDE) | Data Engineer | Data Analyst**  
+M.S. in Engineering Science (Data Science), SUNY Buffalo  
+
+I design and build scalable systems and data solutions — from high-performance backend microservices to distributed data pipelines and analytics dashboards.
+
+---
+
+### 🚀 What I Do
+- **SDE Side:** Distributed systems, microservices, APIs, performance optimization, system design.
+- **Data Side:** ETL pipelines, big data processing, visualization, analytics-driven decision making.
+
+---
+
+### 🛠 Tech Stack
+**Languages:** Python, Java, C++, SQL, R  
+**Backend & System Design:** Kafka, RabbitMQ, REST APIs, AWS (S3, DynamoDB, Lambda, EC2), Docker, Redis, Jenkins, CI/CD  
+**Data Engineering:** Hadoop, Spark, PySpark, Pandas, Airflow  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Visualization Tools:** Power BI, Tableau, Matplotlib, Plotly
+
+---
+
+### 📂 Featured Projects
+#### 💻 SDE / Backend
+- **Distributed Storage System** – Java + C++ + AWS S3/DynamoDB, sharding & indexing strategies ([Repo Link](#))
+- **High-Performance Job Scheduler** – Python + AWS Batch + Redis ([Repo Link](#))
+- **Internal Java SDK for Microservices** – Standardized validation, authentication, error handling ([Repo Link](#))
+
+#### 📊 Data & ML
+- **Data Text Engine** – Hadoop + PySpark word count optimization ([Repo Link](#))
+- **Smart Hand Glove** – ASL-to-text translator using Raspberry Pi & Python ([Repo Link](#))
+- **SQL Optimization Demos** – Indexed, partitioned queries with real-world benchmarks ([Repo Link](#))
+
+---
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
 # 👋 Hi, I'm Rajkumar Rathlavath
 
 I'm a **Data Analyst** with an M.S. in Engineering Science (Data Science) from the **State University of New York at Buffalo**. I’m passionate about transforming data into actionable insights and building scalable solutions to complex problems. With experience as a Data Analyst at Capgemini, I have developed a strong background in data analysis, visualization, and performance optimization.
