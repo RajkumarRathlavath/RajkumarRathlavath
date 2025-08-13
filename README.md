@@ -12,4 +12,6 @@ I develop backend systems and data pipelines that handle millions of records, en
 
 ---
 
+### Coding Profiles
+- [LeetCode](https://leetcode.com/u/rrathlav/)
 
